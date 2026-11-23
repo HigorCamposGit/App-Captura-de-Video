@@ -1,6 +1,6 @@
-# App Captura de Vídeo
+# Desafio | Captura de Vídeo
 
-Aplicativo mobile desenvolvido em **React Native** com **TypeScript** e **Expo** para gravação de vídeos com áudio, alternância entre câmera traseira e frontal, reprodução imediata e ações de compartilhamento, salvamento na galeria ou descarte no **Android**.
+Aplicativo mobile desenvolvido para a **Formação React Native Developer**. Desenvolvido em **React Native** com **TypeScript** e **Expo** para gravação de vídeos com áudio, alternância entre câmera traseira e frontal, reprodução imediata e ações de compartilhamento, salvamento na galeria ou descarte no **Android**.
 
 ---
 
@@ -51,7 +51,18 @@ A base original do projeto utilizava APIs antigas do ecossistema Expo que não f
 ---
 
 ## Como Executar o Projeto
+Clone o repositório:
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/HigorCamposGit/App-Captura-de-Video.git](https://github.com/HigorCamposGit/App-Captura-de-Video.git)
+Bash
+git clone [[https://github.com/HigorCamposGit/App-Captura-de-Video.git](https://github.com/digitalinnovationone/trilha-react-native-expo-video)]
+Acesse a pasta do projeto e instale as dependências:
+
+Bash
+`cd App-Captura-de-Video`
+`npm install`
+Inicie o servidor de desenvolvimento do Expo:
+
+Bash
+`npx expo start --clear`
+Escaneie o QR Code no aplicativo Expo Go em seu dispositivo Android.
+
