@@ -35,6 +35,26 @@ Este projeto foi desenvolvido com base nas aulas e orientações do professor **
 
 ---
 
+## Estrutura do Projeto
+
+```text
+App-Captura-de-Video/
+├── src/
+│   └── components/
+│       ├── CameraView/
+│       │   ├── index.tsx
+│       │   ├── props.ts
+│       │   └── styles.ts
+│       └── VideoPlayer/
+│           ├── index.tsx
+│           ├── props.ts
+│           └── styles.ts
+├── App.tsx
+├── app.json
+├── package.json
+└── tsconfig.json
+```
+---
 ## Atualizações Realizadas para Rodar no Android (Migração de Versão Antiga)
 
 A base original do projeto utilizava APIs antigas do ecossistema Expo que não funcionam nas versões atuais do Expo Go no **Android**. Para tornar o projeto compatível e funcional, foram feitas as seguintes atualizações:
