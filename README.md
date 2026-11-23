@@ -3,6 +3,12 @@
 Aplicativo mobile desenvolvido para a **Formação React Native Developer**. Desenvolvido em **React Native** com **TypeScript** e **Expo** para gravação de vídeos com áudio, alternância entre câmera traseira e frontal, reprodução imediata e ações de compartilhamento, salvamento na galeria ou descarte no **Android**.
 
 ---
+## 🙏 Agradecimentos
+
+Este projeto foi desenvolvido com base nas aulas e orientações do professor **Felipe Aguiar**. Conheça mais sobre o trabalho dele em seu perfil no GitHub: [@felipeAguiarCode](https://github.com/felipeAguiarCode).
+
+---
+
 
 ## O que foi feito
 
@@ -65,4 +71,15 @@ Inicie o servidor de desenvolvimento do Expo:
 Bash
 `npx expo start --clear`
 Escaneie o QR Code no aplicativo Expo Go em seu dispositivo Android.
+
+---
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
 
